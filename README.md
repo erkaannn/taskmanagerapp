@@ -1,5 +1,5 @@
 # taskManagerApp
-![ss](https://github.com/erkaannn/taskmanagerapp/blob/main/Screenshot1.PNG)
+![ss](https://github.com/erkaannn/taskmanager/blob/main/Screenshot1.PNG)
 ![ss](https://github.com/erkaannn/taskmanagerapp/blob/main/Screenshot2.PNG)
 ![ss](https://github.com/erkaannn/taskmanagerapp/blob/main/Screenshot3.PNG)
 ![ss](https://github.com/erkaannn/taskmanagerapp/blob/main/Screenshot4.PNG)
